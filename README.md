@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albertinho88
 - 👀 I’m interested in software development new technologies
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
