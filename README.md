@@ -28,6 +28,13 @@ I'm a passionate Java Software Engineer with a strong focus on building scalable
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
 ## 📫 How to reach me
 
 - Email: [jualberto_lm88@hotmail.com](mailto:jualberto_lm88@hotmail.com)
